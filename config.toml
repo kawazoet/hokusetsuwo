@@ -1,0 +1,79 @@
+baseurl = "https://hokusetsu-wind.com/new/"
+title = "Hokusetsu Wind Orchestra"
+languageCode = "ja"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+googleAnalytics = "GTM-TN29M7L" # Enable Google Analytics by entering your tracking id
+disableKinds = ["home"]
+
+[Params]
+  description = "Hokusetsu Wind Orchestra's web site" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = true # Show "Read more" button in list if true
+  authorbox = false
+  pager = false
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["docs"]
+
+[Params.logo]
+  image = "/images/hwo.gif"
+  subtitle = "" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search","social"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "hokusetsuwo"
+  twitter = "hokusetsuwo"
+  instagram = "hokusetsuwo"
+
+[[Menus.main]]
+  Name = "楽団紹介"
+  URL = "/docs/about"
+  weight = 1
+
+[[Menus.main]]
+  Name = "演奏会への思い"
+  URL = "/docs/thoughts"
+  weight = 2
+
+[[Menus.main]]
+  Name = "パート紹介"
+  URL = "/docs/part"
+  weight = 3
+
+[[Menus.main]]
+  Name = "活動履歴"
+  URL = "/docs/history"
+  weight = 4
+
+[[Menus.main]]
+  Name = "団員募集"
+  URL = "/docs/invite"
+  weight = 5
+
+[[Menus.main]]
+  Name = "練習日程"
+  URL = "/docs/schedule/"
+  weight = 6
+
+[[Menus.main]]
+  Name = "お問い合わせ"
+  URL = "https://hokusetsu-wind.com/message.php"
+  weight = 7
+
+[[Menus.main]]
+  Name = "団員専用"
+  URL = "https://hokusetsu-wind.com/slack/"
+  weight = 8
+
