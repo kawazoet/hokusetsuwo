@@ -2,7 +2,7 @@
 title: 練習日程
 ---
 
-![練習場所](/new/images/map.gif)
+![練習場所](../images/map.gif)
 
 練習場所：高槻市生涯学習センターB1Fリハーサル室
 
