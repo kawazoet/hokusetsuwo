@@ -56,13 +56,13 @@ title: 活動履歴
 
 その他、合宿やイベントなどもいろいろ行っています！
 
-![合宿](/new/images/200405.jpg)
+![合宿](../images/200405.jpg)
 2004年春の合宿
 
-![花火](/new/images/hanabi.jpg)
+![花火](../images/hanabi.jpg)
 花火大会
 
-![ソーセージ作り](/new/images/moku1.jpg)
+![ソーセージ作り](../images/moku1.jpg)
 伊賀の里モクモク手作りファームにてソーセージ作り
 
 ---
