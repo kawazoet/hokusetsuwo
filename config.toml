@@ -69,11 +69,11 @@ disableKinds = ["home"]
 
 [[Menus.main]]
   Name = "お問い合わせ"
-  URL = "https://hokusetsu-wind.com/message.php"
+  URL = "/message.php"
   weight = 7
 
 [[Menus.main]]
   Name = "団員専用"
-  URL = "https://hokusetsu-wind.com/slack/"
+  URL = "/slack/"
   weight = 8
 
