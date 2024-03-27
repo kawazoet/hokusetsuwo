@@ -4,7 +4,7 @@ title: パート紹介
 
 ## CLARINET
 
-![Bass Clarinet](/new/images/bcl.jpg)
+![Bass Clarinet](../images/bcl.jpg)
 
 〜クラパ語辞典〜
 - 【アンサンブル】	毎年恒例、秋の行事。
@@ -19,7 +19,7 @@ title: パート紹介
 
 ## Flute&Oboe
 
-![Flute&Oboe](/new/images/flob_s.jpg)
+![Flute&Oboe](../images/flob_s.jpg)
 
 ～北摂フルボエ家の四姉妹～
 
@@ -33,7 +33,7 @@ title: パート紹介
 
 ## SAXOPHONE
 
-![Sax](/new/images/sax2.jpg)
+![Sax](../images/sax2.jpg)
 
 サキソフォンって１８６０年頃にこの世に生まれた、吹奏楽で使われる楽器の中では多分一番若い楽器なんですよね。
 
@@ -49,7 +49,7 @@ title: パート紹介
 
 ## FRENCH HORN
 
-![Horn](/new/images/horn2.jpg)
+![Horn](../images/horn2.jpg)
 
 20XX年、ホルン戦隊「ツノレンジャー」の登場によって地球の平和は保たれ、豊かな音楽があふれている。
 そんなツノレンジャーは今日も仲良く練習に励んでいる。ツノレッドはグリッサンドビームの命中率を上げる練習中。ツノブルーはンパンパンチをより速く繰り出すために筋トレ。ツノイエローはフラッターキックをいつか炸裂させたいと意気込み、ツノグリーンはミュートミサイルの出番が少ないとやや不満気味。ツノゴールドはゲシュトップガードの手のモーションを研究している。
@@ -58,7 +58,7 @@ title: パート紹介
 
 ## TRUMPET
 
-![Trumpet](/new/images/tr.jpg)
+![Trumpet](../images/tr.jpg)
 
 《トランペットパートあるある》
 - 練習中にミュートが入れ替わりがち
@@ -78,7 +78,7 @@ title: パート紹介
 
 ## TROMBONE
 
-![Trombone](/new/images/tb.jpg)
+![Trombone](../images/tb.jpg)
 
 メロスは激怒した。必ず、かの練習場まで辿りつかなければならぬと決意した。
 そして、メロスは走った。
@@ -102,7 +102,7 @@ title: パート紹介
 
 ## BASS PART
 
-![Tuba](/new/images/tu.jpg)
+![Tuba](../images/tu.jpg)
 
 私たちの団ではファゴット、ユーフォニアム、チューバ、コントラバスといろいろな楽器が低音パートとしてまとまっています。
 メンバーも神出鬼没な人、しっかり者の先生、お姫さまっぽい人、世話焼きさん、3度の飲みより練習大好きな人、何かいじり倒されてる人といろいろですが、時にはマイペースに、時にはまとまって楽しくやってます。
@@ -111,7 +111,7 @@ title: パート紹介
 
 ## PERCUSSION
 
-![Conga](/new/images/_con.jpg)
+![Conga](../images/_con.jpg)
 
 
 打楽器パートです。身の回りのものをこれでもかと叩き続けるコミュニティの１つです。
